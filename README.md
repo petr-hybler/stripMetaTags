@@ -5,4 +5,4 @@ see the stripMeta.sh file
 
 
 # Execution
-:$ ./stripMeta.sh
+`./stripMeta.sh`
